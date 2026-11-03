@@ -1,0 +1,6 @@
+train: C:\Users\asus\OneDrive\Desktop\rmutp\github\yolov26n_custom\train
+val: C:\Users\asus\OneDrive\Desktop\rmutp\github\yolov26n_custom\val
+
+nc: 2
+
+names: ['Car', 'truck']
